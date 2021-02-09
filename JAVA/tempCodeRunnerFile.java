@@ -1,0 +1,1 @@
+Integer.parseInt(number.substring(i, i+1));
